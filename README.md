@@ -1,27 +1,8 @@
-# React Template（⚡️）
+# Expenses Tracker App
+An app I'm currently building to gain experience with developing React SPAs.
 
-⚡️ A minimal React Vite starter template.
-
-## Feature
-
-- ⚡️ Fast - Build tools based on vite.
-- 👻 Small - Based on the smallest runnable build.
-- 💄 Prettier - Integrated Prettier to help you format the code.
-- ✅ Safety - Https is enabled by default.
-- 😎 Reliable - Integrated eslint and commitlint.
-- 🤖 Intelligent - Integrated renovate to help you maintain the dependent version.
-
-## Preview
-
-[![qekup8.png](https://s1.ax1x.com/2022/03/20/qekup8.png)](https://imgtu.com/i/qekup8)
-
-## Getting Started
-
-```bash
-npx degit 0x219/vite-template-react-plus myapp
-
-cd myapp
-```
+## Technologies Used
+*
 
 ### Prerequisites
 
